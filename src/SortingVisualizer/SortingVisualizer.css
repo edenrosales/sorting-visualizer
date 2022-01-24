@@ -1,0 +1,35 @@
+.array-container {
+    width: 1920px;
+    margin: 0 auto;
+
+}
+
+
+.array-bar {
+    width: 3px;
+    background-color: turquoise;
+    display: inline-block;
+    margin: 75px 1px 0;
+    border-radius: 5px;
+}
+
+
+.btn {
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    height: 30px;
+    margin: 10px;
+}
+.btn:hover{
+    color: green;
+}
+.btn:active {
+    transform: scale(0.98);
+}
+
+.button-row{
+    width: 1920px;
+    margin: 0 auto;
+}
